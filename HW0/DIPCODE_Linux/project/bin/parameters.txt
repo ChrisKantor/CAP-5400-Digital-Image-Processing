@@ -1,0 +1,18 @@
+baboon.pgm baboon_bi50.pgm binarize 50
+baboon.pgm baboon_bi125.pgm binarize 125
+baboon.pgm baboon_add50.pgm add 50
+baboon.pgm baboon_sub50.pgm add -50
+baboon.pgm baboon_s200.pgm scale 2
+baboon.pgm baboon_s50.pgm scale 0.5
+baboon.pgm baboon_vt50_50.pgm valueThreshold 50 50
+baboon.pgm baboon_vt75_75.pgm valueThreshold 75 75
+baboon.pgm baboon_vt100_50.pgm valueThreshold 100 50
+baboon.pgm baboon_vt100_100.pgm valueThreshold 100 100
+baboon.pgm baboon_vt150_50.pgm valueThreshold 150 50
+baboon.pgm baboon_vt150_100.pgm valueThreshold 150 100
+baboon.pgm baboon_vt150_150.pgm valueThreshold 150 150
+baboon.pgm baboon_vt200_50.pgm valueThreshold 200 50
+baboon.pgm baboon_vt200_100.pgm valueThreshold 200 100
+baboon.pgm baboon_vt200_150.pgm valueThreshold 200 150
+baboon.pgm baboon_vt200_200.pgm valueThreshold 200 200
+baboon.pgm baboon_vt255_0.pgm valueThreshold 255 0
