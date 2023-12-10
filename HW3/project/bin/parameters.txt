@@ -1,0 +1,28 @@
+baboon.pgm baboon_grey_90_norm.pgm 3 90 ROI 0 0 256 256 addGrey 0 ROI 256 256 256 256 addGrey 0 ROI 256 0 256 256 addGrey 0
+baboon.pgm baboon_grey_180_norm.pgm 3 180 ROI 0 0 256 256 addGrey 0 ROI 256 256 256 256 addGrey 0 ROI 256 0 256 256 addGrey 0
+baboon.pgm baboon_grey_270_norm.pgm 3 270 ROI 0 0 256 256 addGrey 0 ROI 256 256 256 256 addGrey 0 ROI 256 0 256 256 addGrey 0
+baboon.pgm baboon_grey_0_lowpass_30.pgm 3 0 ROI 0 0 256 256 lowpass 30 ROI 256 256 256 256 lowpass 30 ROI 256 0 256 256 lowpass 30
+baboon.pgm baboon_grey_90_lowpass_30.pgm 3 90 ROI 0 0 256 256 lowpass 30 ROI 256 256 256 256 lowpass 30 ROI 256 0 256 256 lowpass 30
+baboon.pgm baboon_grey_180_lowpass_30.pgm 3 180 ROI 0 0 256 256 lowpass 30 ROI 256 256 256 256 lowpass 30 ROI 256 0 256 256 lowpass 30
+baboon.pgm baboon_grey_270_lowpass_30.pgm 3 270 ROI 0 0 256 256 lowpass 30 ROI 256 256 256 256 lowpass 30 ROI 256 0 256 256 lowpass 30
+baboon.pgm baboon_grey_0_highpass_30.pgm 3 0 ROI 0 0 256 256 highpass 30 ROI 256 256 256 256 highpass 30 ROI 256 0 256 256 highpass 30
+baboon.pgm baboon_grey_90_highpass_30.pgm 3 90 ROI 0 0 256 256 highpass 30 ROI 256 256 256 256 highpass 30 ROI 256 0 256 256 highpass 30
+baboon.pgm baboon_grey_180_highpass_30.pgm 3 180 ROI 0 0 256 256 highpass 30 ROI 256 256 256 256 highpass 30 ROI 256 0 256 256 highpass 30
+baboon.pgm baboon_grey_270_highpass_30.pgm 3 270 ROI 0 0 256 256 highpass 30 ROI 256 256 256 256 highpass 30 ROI 256 0 256 256 highpass 30
+baboon.pgm baboon_grey_0_unsharpmask_10_50.pgm 3 0 ROI 0 0 256 256 unsharpMasking 10 0.50 ROI 256 256 256 256 unsharpMasking 10 0.50 ROI 256 0 256 256 unsharpMasking 10 0.50
+baboon.pgm baboon_grey_90_unsharpmask_10_50.pgm 3 90 ROI 0 0 256 256 unsharpMasking 10 0.50 ROI 256 256 256 256 unsharpMasking 10 0.50 ROI 256 0 256 256 unsharpMasking 10 0.50
+baboon.pgm baboon_grey_180_unsharpmask_10_50.pgm 3 180 ROI 0 0 256 256 unsharpMasking 10 0.50 ROI 256 256 256 256 unsharpMasking 10 0.50 ROI 256 0 256 256 unsharpMasking 10 0.50
+baboon.pgm baboon_grey_270_unsharpmask_10_50.pgm 3 270 ROI 0 0 256 256 unsharpMasking 10 0.50 ROI 256 256 256 256 unsharpMasking 10 0.50 ROI 256 0 256 256 unsharpMasking 10 0.50
+baboon.pgm baboon_grey_0_bandstop_10_30.pgm 3 0 ROI 0 0 256 256 bandstop 10 30 ROI 256 256 256 256 bandstop 10 30 ROI 256 0 256 256 bandstop 10 30
+baboon.pgm baboon_grey_90_bandstop_10_30.pgm 3 90 ROI 0 0 256 256 bandstop 10 30 ROI 256 256 256 256 bandstop 10 30 ROI 256 0 256 256 bandstop 10 30
+baboon.pgm baboon_grey_180_bandstop_10_30.pgm 3 180 ROI 0 0 256 256 bandstop 10 30 ROI 256 256 256 256 bandstop 10 30 ROI 256 0 256 256 bandstop 10 30
+baboon.pgm baboon_grey_270_bandstop_10_30.pgm 3 270 ROI 0 0 256 256 bandstop 10 30 ROI 256 256 256 256 bandstop 10 30 ROI 256 0 256 256 bandstop 10 30
+baboon.ppm baboon_color_lowpass_V_30.ppm 3 0 ROI 0 0 256 256 lowpass v 30 ROI 256 256 256 256 lowpass v 30 ROI 256 0 256 256 lowpass v 30
+baboon.ppm baboon_color_lowpass_H_30.ppm 3 0 ROI 0 0 256 256 lowpass h 30 ROI 256 256 256 256 lowpass h 30 ROI 256 0 256 256 lowpass h 30
+baboon.ppm baboon_color_lowpass_S_30.ppm 3 0 ROI 0 0 256 256 lowpass s 30 ROI 256 256 256 256 lowpass s 30 ROI 256 0 256 256 lowpass s 30
+baboon.ppm baboon_color_highpass_V_30.ppm 3 0 ROI 0 0 256 256 highpass v 30 ROI 256 256 256 256 highpass v 30 ROI 256 0 256 256 highpass v 30
+baboon.ppm baboon_color_highpass_H_30.ppm 3 0 ROI 0 0 256 256 highpass h 30 ROI 256 256 256 256 highpass h 30 ROI 256 0 256 256 highpass h 30
+baboon.ppm baboon_color_highpass_S_30.ppm 3 0 ROI 0 0 256 256 highpass s 30 ROI 256 256 256 256 highpass s 30 ROI 256 0 256 256 highpass s 30
+baboon.ppm baboon_color_bandstop_V_10_30.ppm 3 0 ROI 0 0 256 256 bandstop v 10 30 ROI 256 256 256 256 bandstop v 10 30 ROI 256 0 256 256 bandstop v 10 30
+baboon.ppm baboon_color_bandstop_H_10_30.ppm 3 0 ROI 0 0 256 256 bandstop h 10 30 ROI 256 256 256 256 bandstop h 10 30 ROI 256 0 256 256 bandstop h 10 30
+baboon.ppm baboon_color_bandstop_S_10_30.ppm 3 0 ROI 0 0 256 256 bandstop s 10 30 ROI 256 256 256 256 bandstop s 10 30 ROI 256 0 256 256 bandstop s 10 30
