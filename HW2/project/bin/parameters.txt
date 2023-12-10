@@ -1,0 +1,43 @@
+baboonLowContrastGrey.pgm baboon_grey_90_norm.pgm 3 90 ROI 0 0 256 256 addGrey 0 ROI 256 256 256 256 addGrey 0 ROI 256 0 256 256 addGrey 0
+baboonLowContrastGrey.pgm baboon_grey_180_norm.pgm 3 180 ROI 0 0 256 256 addGrey 0 ROI 256 256 256 256 addGrey 0 ROI 256 0 256 256 addGrey 0
+baboonLowContrastGrey.pgm baboon_grey_270_norm.pgm 3 270 ROI 0 0 256 256 addGrey 0 ROI 256 256 256 256 addGrey 0 ROI 256 0 256 256 addGrey 0
+baboonLowContrastGrey.pgm baboon_grey_0_histoStretch_0To255.pgm 3 0 ROI 0 0 256 256 histoStretch 0 255 ROI 256 256 256 256 histoStretch 0 255 ROI 256 0 256 256 histoStretch 0 255
+baboonLowContrastGrey.pgm baboon_grey_90_histoStretch_0To255.pgm 3 90 ROI 0 0 256 256 histoStretch 0 255 ROI 256 256 256 256 histoStretch 0 255 ROI 256 0 256 256 histoStretch 0 255
+baboonLowContrastGrey.pgm baboon_grey_180_histoStretch_0To255.pgm 3 180 ROI 0 0 256 256 histoStretch 0 255 ROI 256 256 256 256 histoStretch 0 255 ROI 256 0 256 256 histoStretch 0 255
+baboonLowContrastGrey.pgm baboon_grey_270_histoStretch_0To255.pgm 3 270 ROI 0 0 256 256 histoStretch 0 255 ROI 256 256 256 256 histoStretch 0 255 ROI 256 0 256 256 histoStretch 0 255
+baboonLowContrastGrey.pgm baboon_grey_0_histoEqual.pgm 3 0 ROI 0 0 256 256 histoEqual 0 ROI 256 256 256 256 histoEqual 0 ROI 256 0 256 256 histoEqual 0
+baboonLowContrastGrey.pgm baboon_grey_90_histoEqual.pgm 3 90 ROI 0 0 256 256 histoEqual 0 ROI 256 256 256 256 histoEqual 0 ROI 256 0 256 256 histoEqual 0
+baboonLowContrastGrey.pgm baboon_grey_180_histoEqual.pgm 3 180 ROI 0 0 256 256 histoEqual 0 ROI 256 256 256 256 histoEqual 0 ROI 256 0 256 256 histoEqual 0
+baboonLowContrastGrey.pgm baboon_grey_270_histoEqual.pgm 3 270 ROI 0 0 256 256 histoEqual 0 ROI 256 256 256 256 histoEqual 0 ROI 256 0 256 256 histoEqual 0
+baboonLowContrastGrey.pgm baboon_grey_0_histoEqualThreshold.pgm 3 0 ROI 0 0 256 256 histoEqualThreshold 100 ROI 256 256 256 256 histoEqualThreshold 100 ROI 256 0 256 256 histoEqualThreshold 100
+baboonLowContrastGrey.pgm baboon_grey_90_histoEqualThreshold.pgm 3 90 ROI 0 0 256 256 histoEqualThreshold 100 ROI 256 256 256 256 histoEqualThreshold 100 ROI 256 0 256 256 histoEqualThreshold 100
+baboonLowContrastGrey.pgm baboon_grey_180_histoEqualThreshold.pgm 3 180 ROI 0 0 256 256 histoEqualThreshold 100 ROI 256 256 256 256 histoEqualThreshold 100 ROI 256 0 256 256 histoEqualThreshold 100
+baboonLowContrastGrey.pgm baboon_grey_270_histoEqualThreshold.pgm 3 270 ROI 0 0 256 256 histoEqualThreshold 100 ROI 256 256 256 256 histoEqualThreshold 100 ROI 256 0 256 256 histoEqualThreshold 100
+baboonLowContrastColor.ppm baboon_color_90_norm.ppm 3 90 ROI 0 0 256 256 addColor 0 ROI 256 256 256 256 addColor 0 ROI 256 0 256 256 addColor 0
+baboonLowContrastColor.ppm baboon_color_180_norm.ppm 3 180 ROI 0 0 256 256 addColor 0 ROI 256 256 256 256 addColor 0 ROI 256 0 256 256 addColor 0
+baboonLowContrastColor.ppm baboon_color_270_norm.ppm 3 270 ROI 0 0 256 256 addColor 0 ROI 256 256 256 256 addColor 0 ROI 256 0 256 256 addColor 0
+baboonLowContrastColor.ppm baboon_color_0_histoEqual_V.ppm 3 0 ROI 0 0 256 256 histoEqualHSV v ROI 256 256 256 256 histoEqualHSV v ROI 256 0 256 256 histoEqualHSV v
+baboonLowContrastColor.ppm baboon_color_90_histoEqual_V.ppm 3 90 ROI 0 0 256 256 histoEqualHSV v ROI 256 256 256 256 histoEqualHSV v ROI 256 0 256 256 histoEqualHSV v
+baboonLowContrastColor.ppm baboon_color_180_histoEqual_V.ppm 3 180 ROI 0 0 256 256 histoEqualHSV v ROI 256 256 256 256 histoEqualHSV v ROI 256 0 256 256 histoEqualHSV v
+baboonLowContrastColor.ppm baboon_color_270_histoEqual_V.ppm 3 270 ROI 0 0 256 256 histoEqualHSV v ROI 256 256 256 256 histoEqualHSV v ROI 256 0 256 256 histoEqualHSV v
+baboonLowContrastColor.ppm baboon_color_0_histoEqual_S.ppm 3 0 ROI 0 0 256 256 histoEqualHSV s ROI 256 256 256 256 histoEqualHSV s ROI 256 0 256 256 histoEqualHSV s
+baboonLowContrastColor.ppm baboon_color_90_histoEqual_S.ppm 3 90 ROI 0 0 256 256 histoEqualHSV s ROI 256 256 256 256 histoEqualHSV s ROI 256 0 256 256 histoEqualHSV s
+baboonLowContrastColor.ppm baboon_color_180_histoEqual_S.ppm 3 180 ROI 0 0 256 256 histoEqualHSV s ROI 256 256 256 256 histoEqualHSV s ROI 256 0 256 256 histoEqualHSV s
+baboonLowContrastColor.ppm baboon_color_270_histoEqual_S.ppm 3 270 ROI ROI 0 0 256 256 histoEqualHSV s ROI 256 256 256 256 histoEqualHSV s ROI 256 0 256 256 histoEqualHSV s
+baboonLowContrastGrey.pgm baboon_grey_0_histoEqualThreshold.pgm 3 0 ROI 0 0 256 256 histoEqualThreshold 100 ROI 256 256 256 256 histoEqualThreshold 100 ROI 256 0 256 256 histoEqualThreshold 100
+baboonLowContrastGrey.pgm baboon_grey_90_histoEqualThreshold.pgm 3 90 ROI 0 0 256 256 histoEqualThreshold 100 ROI 256 256 256 256 histoEqualThreshold 100 ROI 256 0 256 256 histoEqualThreshold 100
+baboonLowContrastGrey.pgm baboon_grey_180_histoEqualThreshold.pgm 3 180 ROI 0 0 256 256 histoEqualThreshold 100 ROI 256 256 256 256 histoEqualThreshold 100 ROI 256 0 256 256 histoEqualThreshold 100
+baboonLowContrastGrey.pgm baboon_grey_270_histoEqualThreshold.pgm 3 270 ROI 0 0 256 256 histoEqualThreshold 100 ROI 256 256 256 256 histoEqualThreshold 100 ROI 256 0 256 256 histoEqualThreshold 100
+baboonLowContrastColor.ppm baboon_color_0_histoEqual_RGB_sep.ppm 3 0 ROI 0 0 256 256 histoEqualRGB r ROI 256 256 256 256 histoEqualRGB g ROI 0 256 256 256 histoEqualRGB b
+baboonLowContrastColor.ppm baboon_color_0_histoEqual_HSV_sep.ppm 3 0 ROI 0 0 256 256 histoEqualHSV h ROI 256 256 256 256 histoEqualHSV s ROI 0 256 256 256 histoEqualHSV v
+baboonLowContrastColor.ppm baboon_color_0_histoEqual_RGB_all.ppm 1 0 ROI 0 0 512 512 histoEqualRGB rgb
+baboonLowContrastColor.ppm baboon_color_0_histoEqual_HSV_all.ppm 1 0 ROI 0 0 512 512 histoEqualHSV hsv
+pen.ppm pen_histoEqual_HSV.ppm 1 0 ROI 0 0 286 286 histoEqualHSV v
+pen.ppm pen_histoEqual_RGB_sep.ppm 3 0 ROI 0 0 125 125 histoEqualRGB r ROI 125 125 125 125 histoEqualRGB g ROI 0 125 125 125 histoEqualRGB b
+pen.ppm pen_histoEqual_RGB_all.ppm 1 0 ROI 0 0 286 286 histoEqualRGB rgb
+pen.ppm pen_histoEqual_HSV_sep.ppm 3 0 ROI 0 0 125 125 histoEqualHSV h ROI 125 125 125 125 histoEqualHSV s ROI 0 125 125 125 histoEqualHSV v
+pen.ppm pen_histoEqual_HSV_all.ppm 1 0 ROI 0 0 286 286 histoEqualHSV hsv
+mountain_512.pgm mountain_512_0_histoStretch_0To255.pgm 1 0 ROI 100 0 220 220 histoStretch 0 255
+mountain_512.pgm mountain_512_0_histoStretch_0To255_small.pgm 1 0 ROI 150 0 150 150 histoStretch 0 255
+mountain_512.pgm mountain_512_0_histoEqualThreshold_100.pgm 1 0 ROI 0 0 340 340 histoEqualThreshold 100
+mountain_512.pgm mountain_512_0_histoEqualThreshold_200.pgm 1 0 ROI 0 0 340 340 histoEqualThreshold 200
